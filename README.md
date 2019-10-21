@@ -1,1 +1,2 @@
-# Rates of Convergence for Large-scale Nearest Neighbor Classification
+# bigNN
+Rates of Convergence for Large-scale Nearest Neighbor Classification
